@@ -1,7 +1,7 @@
 
-# fname = "./inputs/1_example.txt"
-# fname = "./inputs/1b_example.txt"
-fname = "./inputs/1.txt"
+# fname = "./inputs/01_example.txt"
+# fname = "./inputs/01b_example.txt"
+fname = "./inputs/01.txt"
 
 # println(String(read(fname)))
 
